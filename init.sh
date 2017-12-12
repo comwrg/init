@@ -7,4 +7,5 @@ git config --global user.name comwrg
 git config --global user.email xcomwrg@gmail.com
 git config --global commit.gpgsign true
 
+sudo apt-get install mysql-server
 sudo update-alternatives --config editor
